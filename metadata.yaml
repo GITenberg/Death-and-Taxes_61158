@@ -1,16 +1,21 @@
 _repo: Death-and-Taxes_61158
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Dyas
     gutenberg_agent_id: '51272'
     url: http://www.gutenberg.org/2009/agents/51272
+covers:
+- cover_type: archival
+  image_path: 61158-h/images/cover.jpg
 creator:
   author:
     agent_name: Hartzell, H. A.
     gutenberg_agent_id: '51288'
     url: http://www.gutenberg.org/2009/agents/51288
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61158#Death-and-Taxes
 gutenberg_issued: '2020-01-12'
 gutenberg_type: Text
 identifiers:
