@@ -1,0 +1,30 @@
+_repo: Death-and-Taxes_61158
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Dyas
+    gutenberg_agent_id: '51272'
+    url: http://www.gutenberg.org/2009/agents/51272
+creator:
+  author:
+    agent_name: Hartzell, H. A.
+    gutenberg_agent_id: '51288'
+    url: http://www.gutenberg.org/2009/agents/51288
+description: ''
+gutenberg_issued: '2020-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61158'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Ghosts -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Painters -- Fiction'
+- !lcsh 'Love stories'
+- GITenberg
+title: Death and Taxes
+url: http://www.gutenberg.org/ebooks/61158
